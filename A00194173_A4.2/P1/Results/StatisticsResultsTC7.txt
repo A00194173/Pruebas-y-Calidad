@@ -1,0 +1,15 @@
+Resultados del cálculo de estadísticas
+-------------------------------------
+Archivo de entrada: ..\Test\TC7.txt
+Total de elementos leídos: 12769
+Números válidos: 12767
+Datos inválidos: 2
+
+Estadísticas descriptivas:
+Media: 247467395499714904064.000000
+Mediana: 246640973074290016256.000000
+Moda(s): NA
+Desviación estándar (poblacional): 144605647009847033856.000000
+Varianza (poblacional): 20910793147136483762414542324695312629760.000000
+
+Tiempo de ejecución (segundos): 0.026594

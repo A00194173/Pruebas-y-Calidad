@@ -1,0 +1,15 @@
+Resultados del cálculo de estadísticas
+-------------------------------------
+Archivo de entrada: ..\Test\TC6.txt
+Total de elementos leídos: 3000
+Números válidos: 3000
+Datos inválidos: 0
+
+Estadísticas descriptivas:
+Media: 187906599279774728192.000000
+Mediana: 188008049965542998016.000000
+Moda(s): NA
+Desviación estándar (poblacional): 107382050173809999872.000000
+Varianza (poblacional): 11530904699530646862954721780958962384896.000000
+
+Tiempo de ejecución (segundos): 0.001973

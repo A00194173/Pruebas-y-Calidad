@@ -1,0 +1,15 @@
+Resultados del cálculo de estadísticas
+-------------------------------------
+Archivo de entrada: ..\Test\TC4.txt
+Total de elementos leídos: 12624
+Números válidos: 12624
+Datos inválidos: 0
+
+Estadísticas descriptivas:
+Media: 149.002673
+Mediana: 147.750000
+Moda(s): 123.750000
+Desviación estándar (poblacional): 130.414420
+Varianza (poblacional): 17007.920843
+
+Tiempo de ejecución (segundos): 0.005221
