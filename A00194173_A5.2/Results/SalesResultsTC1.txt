@@ -1,0 +1,6 @@
+Total de ventas: 2481.86
+Líneas leídas: 46
+Ventas válidas: 46
+Ventas inválidas: 0
+Devoluciones: 0
+Tiempo de ejecución (segundos): 0.000377
