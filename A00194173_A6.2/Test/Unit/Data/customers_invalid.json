@@ -1,0 +1,12 @@
+[
+  {
+    "customer_id": "C002",
+    "name": "Sin Email"
+  },
+  123,
+  {
+    "customer_id": "C003",
+    "name": "",
+    "email": "x@example.com"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "hotel_id": "H002",
+    "name": "Hotel Incompleto",
+    "rooms_total": 5,
+    "rooms_available": 2
+  },
+  "NO_ES_OBJETO",
+  {
+    "hotel_id": "H003",
+    "name": "Hotel Malo",
+    "location": "CDMX",
+    "rooms_total": "NO_NUM",
+    "rooms_available": 1
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "reservation_id": "R002",
+    "hotel_id": "H001",
+    "customer_id": "C001",
+    "status": "UNKNOWN"
+  },
+  {
+    "reservation_id": "R003",
+    "hotel_id": "H001",
+    "status": "active"
+  }
+]
