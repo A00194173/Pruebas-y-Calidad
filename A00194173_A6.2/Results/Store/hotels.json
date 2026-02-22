@@ -1,0 +1,9 @@
+[
+  {
+    "hotel_id": "H001",
+    "name": "Hotel Central",
+    "location": "Monterrey",
+    "rooms_total": 2,
+    "rooms_available": 1
+  }
+]

@@ -9,6 +9,8 @@ Cubre:
 - Crear y cancelar reservaciones (persistencia)
 """
 
+# pylint: disable=duplicate-code
+
 import io
 import os
 import tempfile

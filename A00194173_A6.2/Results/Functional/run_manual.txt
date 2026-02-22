@@ -1,0 +1,75 @@
+﻿**********************
+Windows PowerShell transcript start
+Start time: 20260221222914
+Username: Adri_Nitro\agonz
+RunAs User: Adri_Nitro\agonz
+Configuration Name: 
+Machine: ADRI_NITRO (Microsoft Windows NT 10.0.26200.0)
+Host Application: C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe
+Process ID: 56840
+PSVersion: 5.1.26100.7705
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.26100.7705
+BuildVersion: 10.0.26100.7705
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is Results\Functional\run_manual.txt
+PS C:\Adriana\MNA\Trimestres\6 2026.01 - 03\TC4017 SW QA\Pruebas-y-Calidad\A00194173_A6.2> python -m Source.app
+
+=== Sistema de Reservaciones A6.2 ===
+1) Reservar habitación
+2) Cancelar reservación
+0) Salir
+Selecciona una opción: 1
+hotel_id (H###): H001
+customer_id (C###): C001
+[app] Reservación creada: R001 (hotel=H001, customer=C001)
+
+=== Sistema de Reservaciones A6.2 ===
+1) Reservar habitación
+2) Cancelar reservación
+0) Salir
+Selecciona una opción: 1
+hotel_id (H###): H001
+customer_id (C###): C001
+[app] Reservación creada: R002 (hotel=H001, customer=C001)
+
+=== Sistema de Reservaciones A6.2 ===
+1) Reservar habitación
+2) Cancelar reservación
+0) Salir
+Selecciona una opción: 1
+hotel_id (H###): H001
+customer_id (C###): C001
+[app] No se puede reservar: sin disponibilidad en hotel H001
+
+=== Sistema de Reservaciones A6.2 ===
+1) Reservar habitación
+2) Cancelar reservación
+0) Salir
+Selecciona una opción: 2
+reservation_id (R###): R001
+[app] Reservación cancelada: R001
+
+=== Sistema de Reservaciones A6.2 ===
+1) Reservar habitación
+2) Cancelar reservación
+0) Salir
+Selecciona una opción: 2
+reservation_id (R###): R999
+[app] No se puede cancelar: reservation_id no existe: R999
+
+=== Sistema de Reservaciones A6.2 ===
+1) Reservar habitación
+2) Cancelar reservación
+0) Salir
+Selecciona una opción: 0
+Saliendo...
+PS C:\Adriana\MNA\Trimestres\6 2026.01 - 03\TC4017 SW QA\Pruebas-y-Calidad\A00194173_A6.2> Stop-Transcript
+**********************
+Windows PowerShell transcript end
+End time: 20260221223210
+**********************
